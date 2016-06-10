@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".atys.AtyLogin"/>
         <activity android:name=".atys.AtyTimeline"/>
+        <activity android:name=".atys.AtyMessage"/>
+        <activity android:name=".atys.AtyPubMessage"/>
     </application>
 
 </manifest>

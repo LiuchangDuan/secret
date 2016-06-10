@@ -8,11 +8,11 @@ import com.example.secret.R;
 /**
  * Created by Administrator on 2016/6/10.
  */
-public class AtyTimeline extends ListActivity {
+public class AtyMessage extends ListActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.aty_timeline);
+        setContentView(R.layout.aty_message);
     }
 }

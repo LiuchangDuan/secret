@@ -5,4 +5,5 @@
     <string name="get_code">Get code</string>
     <string name="code">Code</string>
     <string name="login">Login</string>
+    <string name="publish_message">Publish message</string>
 </resources>
